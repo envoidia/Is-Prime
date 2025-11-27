@@ -1,0 +1,4 @@
+function<bool> IsPrime(int n_)
+{
+    return false;
+}
