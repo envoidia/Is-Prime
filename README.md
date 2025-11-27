@@ -207,6 +207,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 - Thue
 - TI-Basic
 - Toit
+- Touhou Danmakufu ph3sx
 - TrumpScript
 - TypeScript
 - TypeScript Declaration File
